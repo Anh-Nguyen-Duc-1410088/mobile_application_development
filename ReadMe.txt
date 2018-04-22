@@ -1,1 +1,0 @@
-Developed On Adroid Studio
